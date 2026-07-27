@@ -1,4 +1,4 @@
-Book Mart
+#Book Mart
 Book Mart is a full-stack used-book marketplace built with a Go API and a React frontend. The project started as a Go learning exercise and now supports a complete marketplace flow: user signup, login, browsing listings, posting books for sale, viewing details, and checking out a book.
 
 Stack
